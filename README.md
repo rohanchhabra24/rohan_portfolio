@@ -1,2 +1,9 @@
-# rohan_portfolio
-Built with HTML, JavaScript, and CSS, this website highlights my work in front-end development and design.
+- Responsive Personal Portfolio Website Using HTML CSS & JavaScript
+- Contains animations when scrolling.
+- Smooth scrolling in each section.
+- Includes a dark & light theme.
+- Sending emails in the contact section.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+
+![preview img](/preview.png)
